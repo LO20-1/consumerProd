@@ -1,0 +1,3 @@
+INSERT INTO consumer (nama,alamat,kota,provinsi,tgl_registrasi,status) VALUES ('Leonardo Lee','ABC Apartement','A','B',CURRENT_TIMESTAMP,'A');
+INSERT INTO consumer (nama,alamat,kota,provinsi,tgl_registrasi,status) VALUES ('Marcelo','BCA Apartement','C','D',CURRENT_TIMESTAMP,'I');
+INSERT INTO consumer (nama,alamat,kota,provinsi,tgl_registrasi,status) VALUES ('Marcela','CBA Apartement','E','F',CURRENT_TIMESTAMP,'A');
